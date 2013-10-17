@@ -1,4 +1,4 @@
 fractalr
-========
+======
 
-fractalR
+simple fractal creation in R
